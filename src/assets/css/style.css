@@ -1,0 +1,22 @@
+ul.navbar-nav a:hover {
+    /*border-radius: 9px !important;*/
+    color: #095256 !important;
+    background-color: #98DFAF !important;
+    text-decoration: none !important;
+}
+
+.backgroundA {
+    color: #095256 !important;
+    background-color: #98DFAF !important;
+}
+
+a.text-decoration-none {
+    color: #5FB49C;
+}
+
+.background-Image {
+		background-image: url('../images/bg.jpg');
+		background-size: cover;
+		height: 100vh;
+	
+}
